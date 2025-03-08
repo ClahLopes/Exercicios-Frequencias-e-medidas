@@ -48,7 +48,7 @@ Este repositório contém uma série de análises estatísticas sobre os dados f
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/[seu-usuario]/Exercicios-Frequencias-e-medidas.git
    ```
 
 
